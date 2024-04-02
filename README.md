@@ -62,7 +62,7 @@ You may want to list some of your notable projects here, along with a brief desc
    
    **Technologies:** React, Jest, typescript, GraphQL, Node.js, SonarQube, Cypress, Material UI, Styled components, SCSS, eslint, prettier
 
-3. **FIM - LeasePlan**
+2. **FIM - LeasePlan**
 
    **Description:** A project that would show the availability of the vehicles in a fleet, and made it possible for the fleet managers to plan maintenance
 
@@ -70,7 +70,7 @@ You may want to list some of your notable projects here, along with a brief desc
 
    - React, Jest, typescript, GraphQL, Node.js, SonarQube, Cypress, Material UI, Styled components, SCSS, sitecore, eslint, prettier
   
-4. **FTB - LeasePlan**
+3. **FTB - LeasePlan**
 
    **Description:** A project that would allow a user of a car to book maintenance without logging in, the user would be checked based on email verification. This would set a low entry for users booking maintenance.
 
@@ -78,7 +78,7 @@ You may want to list some of your notable projects here, along with a brief desc
    
    **Technologies:** React, Jest, typescript, GraphQL, Node.js, SonarQube, Cypress, Material UI, Styled components, SCSS, sitecore, eslint, prettier
   
-6. **Booking tool - LeasePlan**
+4. **Booking tool - LeasePlan**
 
    **Description:** A project that would allow a user of a car from LeasePlan to book maintenance, and select the best garage based on their location and vehicle.
 
@@ -86,7 +86,7 @@ You may want to list some of your notable projects here, along with a brief desc
    
    **Technologies:** React, Next.JS, typescript, Jest, GraphQL, Node.js, SonarQube, Cypress, Material UI, Styled components, SCSS, sitecore, eslint, prettier
   
-7. **Champ**
+5. **Champ**
 
    **Description:** A project that allowed users to easily book tickets for single time use for gyms or workshops.
    
@@ -94,7 +94,7 @@ You may want to list some of your notable projects here, along with a brief desc
   
    **Technologies:** Angular, typescript, SCSS, Jest, Eslint, prettier
   
-8. **Fishing monitor - RIVM Netherlands**
+6. **Fishing monitor - RIVM Netherlands**
 
    **Description:** A project that was made to ensure boats that are fishing would remain within boundaries where they are allowed to fish, if they would be fishing withing illegla boundaries a warning was created and a fine was made up for the company responsible.
 
@@ -102,7 +102,7 @@ You may want to list some of your notable projects here, along with a brief desc
    
    **Technologies:** React, Jest, SCSS, Eslint, prettier, SonarQube
     
-9. **Swooz (mobile and web app)**
+7. **Swooz (mobile and web app)**
 
    **Description:** A project that was made to track live paddel matches.
 
@@ -110,7 +110,7 @@ You may want to list some of your notable projects here, along with a brief desc
    
    **Technologies:** React, Typescript, Jest, SCSS, Eslint, prettier, SonarQube, Flutter, Dart, mobile development
 
-10. **Proctorview**
+8. **Proctorview**
    
    **Description:** This project was created during the Corona pandemic to proctor students during their exams, giving the proctor a live overview of all the screens from the student and giving alerts when they would tab out or turn of their camera.
    
@@ -118,7 +118,7 @@ You may want to list some of your notable projects here, along with a brief desc
    
    **Technologies:** React, Typescript, Socket.IO, Node.js, SCSS 
 
-11. **MailBlue**
+9. **MailBlue**
 
    **Description:** This project was created to make a better user experience for the users that were purchasing a subscription then managing it through the MailBlue website.
    
@@ -126,7 +126,7 @@ You may want to list some of your notable projects here, along with a brief desc
    
    **Technologies:** React, Typescript, SCSS, Jest
    
-12. **Intersoftware**
+10. **Intersoftware**
 
     **Description:** Working on leading software for the mortgage market, re-creating the existing java application in a web application.
    
