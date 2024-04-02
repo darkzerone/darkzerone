@@ -130,9 +130,9 @@ You may want to list some of your notable projects here, along with a brief desc
 
     **Description:** Working on leading software for the mortgage market, re-creating the existing java application in a web application.
    
-   - My work for this project was to create new features, and maintain the existing codebase.
+    - My work for this project was to create new features, and maintain the existing codebase.
    
-   **Technologies:** React, Typescript, SCSS, Jest
+    **Technologies:** React, Typescript, SCSS, Jest
 
 ## Education
 
