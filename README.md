@@ -2,7 +2,7 @@
 
 ## Hello, I'm Steven Leunk! 👋
 
-I am an experienced frontend developer who started in developing proffesionally 2019, I am always interested in learning anything or trying out new frameworks. Never afraid to try something new! After all we are developers that like to learn and expand our skillset!
+I am an experienced frontend developer who started developing proffesionally 2019, I am always interested in learning anything or trying out new frameworks. Never afraid to try something new! After all we are developers that like to learn and expand our skillset!
 
 ## Skills
 
