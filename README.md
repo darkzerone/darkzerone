@@ -96,7 +96,7 @@ You may want to list some of your notable projects here, along with a brief desc
   
 6. **Fishing monitor - RIVM Netherlands**
 
-   **Description:** A project that was made to ensure boats that are fishing would remain within boundaries where they are allowed to fish, if they would be fishing withing illegla boundaries a warning was created and a fine was made up for the company responsible.
+   **Description:** A project that was made to ensure boats that are fishing would remain within boundaries where they are allowed to fish, if they would be fishing within illegal boundaries a warning was created and a fine was made up for the company responsible.
 
    - My work for this project was mainly to implement new features, ensure that the codebase quality was high in this project I was also placed in a team lead position guiding the developers and making sure they were well versed in React.
    
